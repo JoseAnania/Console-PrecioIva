@@ -1,0 +1,7 @@
+C:\Users\José\Desktop\Dev\C#\Consola\PrecioIva\PrecioIva\bin\Debug\PrecioIva.exe.config
+C:\Users\José\Desktop\Dev\C#\Consola\PrecioIva\PrecioIva\bin\Debug\PrecioIva.exe
+C:\Users\José\Desktop\Dev\C#\Consola\PrecioIva\PrecioIva\bin\Debug\PrecioIva.pdb
+C:\Users\José\Desktop\Dev\C#\Consola\PrecioIva\PrecioIva\obj\Debug\PrecioIva.csprojAssemblyReference.cache
+C:\Users\José\Desktop\Dev\C#\Consola\PrecioIva\PrecioIva\obj\Debug\PrecioIva.csproj.CoreCompileInputs.cache
+C:\Users\José\Desktop\Dev\C#\Consola\PrecioIva\PrecioIva\obj\Debug\PrecioIva.exe
+C:\Users\José\Desktop\Dev\C#\Consola\PrecioIva\PrecioIva\obj\Debug\PrecioIva.pdb
